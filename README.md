@@ -106,16 +106,16 @@ With 10+ years of experience driving product development, leading cross‑functi
 ---
 
 ### 🎯 Beyond Work
-- ⚽ Soccer fan  
+- ⚽ Arsenal fan  
 - 🎶 Music lover  
 - 🎬 Movie enthusiast  
 
 ---
 
 📫 **Connect with me:**
-- [LinkedIn](https://linkedin.com/in/ogagunmathew)  
-- [Portfolio](https://yourwebsite.com)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://linkedin.com/in/mathewkunle)  
+- [Brand](https://bluespectra.com)  
+- [Email](mailto:mathew@bluespectra.com)
 
 ---
 
