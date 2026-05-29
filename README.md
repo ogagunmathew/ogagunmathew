@@ -23,21 +23,44 @@ With 10+ years of experience driving product development, leading cross‑functi
 ---
 
 ### 🛠️ Tech & Tools
+**Languages & Frameworks:**
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-FFD700?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![CSS](https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white)
-
-**Frameworks:**
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Framework-Express-404D59?logo=express&logoColor=white)
 
-**Methodologies:**
-- Agile  
-- Scrum  
-- Waterfall  
+**Databases:**
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white)
+
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Deploy-Heroku-430098?logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+**Collaboration & Design:**
+![Jira](https://img.shields.io/badge/PM-Jira-0052CC?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/PM-Trello-0052CC?logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Chat-Slack-4A154B?logo=slack&logoColor=white)
+![Teams](https://img.shields.io/badge/Chat-Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Docs-Notion-000000?logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/Docs-Confluence-172B4D?logo=confluence&logoColor=white)
 
 ---
 
@@ -65,6 +88,7 @@ With 10+ years of experience driving product development, leading cross‑functi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogagunmathew&layout=compact&theme=tokyonight)
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogagunmathew&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ogagunmathew&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ogagunmathew&theme=tokyonight)
 
 ---
 
@@ -77,6 +101,7 @@ With 10+ years of experience driving product development, leading cross‑functi
 ### ✨ Dynamic Extras
 ![Visitors](https://komarev.com/ghpvc/?username=ogagunmathew&color=blueviolet)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ---
 
